@@ -8,7 +8,6 @@ We will do this part together as a class. When you are completely done with your
 ```
 import turtle
 t = turtle.Turtle()
-t.shape("turtle")
 ```
 2. And uncomment these lines:
 ```
